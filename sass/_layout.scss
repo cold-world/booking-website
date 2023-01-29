@@ -23,8 +23,8 @@
 
   @media only screen and (max-width: $bp-smallest) {
     flex-wrap: wrap;
-    height: 11rem;
     align-content: space-around;
+    height: 11rem;
   }
 }
 
@@ -73,8 +73,8 @@
   box-shadow: var(--shadow-light);
 
   @media only screen and (max-width: $bp-medium) {
-    padding: 2rem;
     margin-right: 3rem;
+    padding: 2rem;
   }
 
   @media only screen and (max-width: $bp-small) {
