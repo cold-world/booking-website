@@ -1,9 +1,9 @@
-ReactQuotes.
+Booking website.
 =======================================
 
-React, Firebase Realtime DB and Firebase Auth.
+Html, SCSS.
 
-Main goal -> auth/login, send data to DB - add qoutes and add comments to qoutes.
+Main goal -> build a modern website.
 
 
 * * *
